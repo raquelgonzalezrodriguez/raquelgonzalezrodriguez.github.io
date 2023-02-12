@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFG-pruebaLocal-VS3", "TFG-pruebaLocal-VS3.csproj", "{B8234A45-DBE9-4DA2-A879-0370BD16461C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8234A45-DBE9-4DA2-A879-0370BD16461C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8234A45-DBE9-4DA2-A879-0370BD16461C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8234A45-DBE9-4DA2-A879-0370BD16461C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8234A45-DBE9-4DA2-A879-0370BD16461C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E0C1A69-55D7-46E4-9466-34E70D52A078}
+	EndGlobalSection
+EndGlobal
