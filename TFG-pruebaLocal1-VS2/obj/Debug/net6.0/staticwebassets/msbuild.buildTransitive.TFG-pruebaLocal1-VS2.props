@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\TFG-pruebaLocal1-VS2.props" />
-</Project>

@@ -1,7 +1,0 @@
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\TFG-pruebaLocal1-VS2.exe
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\TFG-pruebaLocal1-VS2.dll
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\TFG-pruebaLocal1-VS2.deps.json
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\TFG-pruebaLocal1-VS2.runtimeconfig.json
-C:\Users\raquel.rodriguez\Angular\Proyectos-Formacion-Pruebas\TFG-pruebaLocal1-VS2\obj\Release\net6.0\PubTmp\Out\TFG-pruebaLocal1-VS2.pdb
