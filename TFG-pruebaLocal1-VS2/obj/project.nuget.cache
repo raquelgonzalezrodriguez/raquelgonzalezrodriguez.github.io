@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJOcT9cMevN2pp7stof2ZbvEBl8eFd6JDTYVXREGjaFlB4TN73W1vnyo+/d/hvCj3I6De/IVDFmFoyNo12SYJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raquel.rodriguez\\Angular\\Proyectos-Formacion-Pruebas\\TFG-pruebaLocal1-VS2\\TFG-pruebaLocal1-VS2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raquel.rodriguez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\raquel.rodriguez\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\raquel.rodriguez\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\raquel.rodriguez\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
